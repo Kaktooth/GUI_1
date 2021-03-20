@@ -1,0 +1,11 @@
+C:\Users\Xiaomi\source\repos\WіnLіnkLabel\bin\Debug\WіnLіnkLabel.exe.config
+C:\Users\Xiaomi\source\repos\WіnLіnkLabel\bin\Debug\WіnLіnkLabel.exe
+C:\Users\Xiaomi\source\repos\WіnLіnkLabel\bin\Debug\WіnLіnkLabel.pdb
+C:\Users\Xiaomi\source\repos\WіnLіnkLabel\obj\Debug\WіnLіnkLabel.csprojAssemblyReference.cache
+C:\Users\Xiaomi\source\repos\WіnLіnkLabel\obj\Debug\WіnLіnkLabel.Form1.resources
+C:\Users\Xiaomi\source\repos\WіnLіnkLabel\obj\Debug\WіnLіnkLabel.Form2.resources
+C:\Users\Xiaomi\source\repos\WіnLіnkLabel\obj\Debug\WіnLіnkLabel.Properties.Resources.resources
+C:\Users\Xiaomi\source\repos\WіnLіnkLabel\obj\Debug\WіnLіnkLabel.csproj.GenerateResource.cache
+C:\Users\Xiaomi\source\repos\WіnLіnkLabel\obj\Debug\WіnLіnkLabel.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\source\repos\WіnLіnkLabel\obj\Debug\WіnLіnkLabel.exe
+C:\Users\Xiaomi\source\repos\WіnLіnkLabel\obj\Debug\WіnLіnkLabel.pdb
